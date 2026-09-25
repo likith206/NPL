@@ -1,0 +1,102 @@
+// Prisma Schema for HeritageVoice
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Language {
+  id           String             @id @default(cuid())
+  code         String             @unique // e.g. "kvd", "tcy", "en", "kn"
+  name         String             // e.g. "Kodava Takk", "Tulu", "English"
+  nativeName   String             // e.g. "ಕೊಡವ ತಕ್ಕ್", "ತುಳು"
+  script       String             // e.g. "Kannada / Roman", "Tigalari / Kannada"
+  region       String             // e.g. "Kodagu, Karnataka", "Tulu Nadu"
+  speakers     Int                // Estimated speakers count
+  status       String             // "Vulnerable", "Definitely Endangered", etc.
+  description  String
+  createdAt    DateTime           @default(now())
+  updatedAt    DateTime           @updatedAt
+  entries      DictionaryEntry[]  @relation("SourceLanguage")
+  translations Translation[]      @relation("TargetLanguage")
+}
+
+model DictionaryEntry {
+  id           String         @id @default(cuid())
+  languageId   String
+  language     Language       @relation("SourceLanguage", fields: [languageId], references: [id])
+  term         String         // Word/Phrase in native script
+  romanization String         // Phonetic pronunciation guide
+  ipa          String?        // International Phonetic Alphabet
+  partOfSpeech String         // noun, verb, adjective, phrase, proverb
+  definition   String         // English meaning
+  exampleNative String?       // Example sentence in native script
+  exampleEn    String?        // Example sentence in English
+  culturalNote String?        // Cultural background
+  audioUrl     String?        // Audio sample URL
+  verified     Boolean        @default(true)
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  translations Translation[]
+}
+
+model Translation {
+  id             String          @id @default(cuid())
+  sourceEntryId  String
+  sourceEntry    DictionaryEntry @relation(fields: [sourceEntryId], references: [id], onDelete: Cascade)
+  targetLangId   String
+  targetLanguage Language        @relation("TargetLanguage", fields: [targetLangId], references: [id])
+  translatedText String
+  romanization   String?
+  confidence     Float           @default(0.95)
+  engineUsed     String          @default("Indic-FineTuned") // "Indic-FineTuned", "Gemini-2.5", "NLLB-200", "Rule-Engine"
+  createdAt      DateTime        @default(now())
+}
+
+model Contribution {
+  id           String   @id @default(cuid())
+  sourceLang   String   // e.g. "en"
+  targetLang   String   // e.g. "kvd" or "tcy"
+  originalText String
+  translatedText String
+  romanization String?
+  partOfSpeech String?
+  context      String?
+  authorName   String   @default("Anonymous Community Contributor")
+  authorEmail  String?
+  audioUrl     String?
+  status       String   @default("PENDING") // "PENDING", "APPROVED", "REJECTED"
+  upvotes      Int      @default(0)
+  downvotes    Int      @default(0)
+  createdAt    DateTime @default(now())
+}
+
+model Lesson {
+  id          String   @id @default(cuid())
+  langCode    String   // "kvd" or "tcy"
+  title       String
+  category    String   // "Greetings", "Family", "Food & Dining", "Culture & Nature", "Proverbs"
+  difficulty  String   // "Beginner", "Intermediate"
+  description String
+  cardsJson   String   // JSON stringified array of Flashcard objects
+  order       Int      @default(0)
+}
+
+model FineTuningJob {
+  id             String    @id @default(cuid())
+  jobName        String
+  targetLanguage String
+  status         String    @default("QUEUED") // "QUEUED", "RUNNING", "COMPLETED", "FAILED"
+  datasetSize    Int
+  epochs         Int       @default(3)
+  baseModel      String    @default("IndicBERT-v2")
+  valLoss        Float?
+  bleuScore      Float?
+  logs           String?
+  createdAt      DateTime  @default(now())
+  completedAt    DateTime?
+}

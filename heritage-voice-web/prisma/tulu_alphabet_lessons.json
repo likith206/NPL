@@ -1,0 +1,4223 @@
+[
+  {
+    "id": "tcy-lesson-vowels",
+    "langCode": "tcy",
+    "title": "Tulu Script 1: Vowels (ಸ್ವರಗಳು)",
+    "category": "Alphabets",
+    "difficulty": "Beginner",
+    "description": "Master all 19 Tulu vowel characters derived from dataset.",
+    "order": 1,
+    "cards": [
+      {
+        "frontNative": "ಅ",
+        "frontRoman": "a",
+        "backEn": "Tulu Vowel sound: /a/ (Class ID #1)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಆ",
+        "frontRoman": "aa",
+        "backEn": "Tulu Vowel sound: /aa/ (Class ID #2)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಇ",
+        "frontRoman": "i",
+        "backEn": "Tulu Vowel sound: /i/ (Class ID #3)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಈ",
+        "frontRoman": "ii",
+        "backEn": "Tulu Vowel sound: /ii/ (Class ID #4)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಉ",
+        "frontRoman": "u",
+        "backEn": "Tulu Vowel sound: /u/ (Class ID #5)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಉ",
+        "frontRoman": "u",
+        "backEn": "Tulu Vowel sound: /u/ (Class ID #6)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಊ",
+        "frontRoman": "uu",
+        "backEn": "Tulu Vowel sound: /uu/ (Class ID #7)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಋ",
+        "frontRoman": "ru",
+        "backEn": "Tulu Vowel sound: /ru/ (Class ID #8)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ೠ",
+        "frontRoman": "ruu",
+        "backEn": "Tulu Vowel sound: /ruu/ (Class ID #9)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಎ",
+        "frontRoman": "e",
+        "backEn": "Tulu Vowel sound: /e/ (Class ID #10)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಏ",
+        "frontRoman": "ee",
+        "backEn": "Tulu Vowel sound: /ee/ (Class ID #11)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಎ",
+        "frontRoman": "e",
+        "backEn": "Tulu Vowel sound: /e/ (Class ID #12)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಏ",
+        "frontRoman": "ee",
+        "backEn": "Tulu Vowel sound: /ee/ (Class ID #13)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಐ",
+        "frontRoman": "ai",
+        "backEn": "Tulu Vowel sound: /ai/ (Class ID #14)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಒ",
+        "frontRoman": "o",
+        "backEn": "Tulu Vowel sound: /o/ (Class ID #15)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಓ",
+        "frontRoman": "oo",
+        "backEn": "Tulu Vowel sound: /oo/ (Class ID #16)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಔ",
+        "frontRoman": "au",
+        "backEn": "Tulu Vowel sound: /au/ (Class ID #17)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಅಂ",
+        "frontRoman": "am",
+        "backEn": "Tulu Vowel sound: /am/ (Class ID #18)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      },
+      {
+        "frontNative": "ಅಃ",
+        "frontRoman": "aha",
+        "backEn": "Tulu Vowel sound: /aha/ (Class ID #19)",
+        "culturalTip": "Fundamental Tulu vowel sound (Swaragalu)"
+      }
+    ]
+  },
+  {
+    "id": "tcy-lesson-consonants",
+    "langCode": "tcy",
+    "title": "Tulu Script 2: Consonants (ವ್ಯಂಜನಗಳು)",
+    "category": "Alphabets",
+    "difficulty": "Beginner",
+    "description": "Master main Tulu consonant characters (68 core sounds).",
+    "order": 2,
+    "cards": [
+      {
+        "frontNative": "ಕ್",
+        "frontRoman": "k",
+        "backEn": "Tulu Consonant sound: /k/ (Class ID #20)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಕ",
+        "frontRoman": "ka",
+        "backEn": "Tulu Consonant sound: /ka/ (Class ID #21)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಖ್",
+        "frontRoman": "kh",
+        "backEn": "Tulu Consonant sound: /kh/ (Class ID #40)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಖ",
+        "frontRoman": "kha",
+        "backEn": "Tulu Consonant sound: /kha/ (Class ID #41)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಗ್",
+        "frontRoman": "g",
+        "backEn": "Tulu Consonant sound: /g/ (Class ID #60)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಗ",
+        "frontRoman": "ga",
+        "backEn": "Tulu Consonant sound: /ga/ (Class ID #61)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಘ್",
+        "frontRoman": "gh",
+        "backEn": "Tulu Consonant sound: /gh/ (Class ID #80)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಘ",
+        "frontRoman": "gha",
+        "backEn": "Tulu Consonant sound: /gha/ (Class ID #81)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಙ್",
+        "frontRoman": "ng",
+        "backEn": "Tulu Consonant sound: /ng/ (Class ID #100)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಙ",
+        "frontRoman": "nga",
+        "backEn": "Tulu Consonant sound: /nga/ (Class ID #101)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಚ್",
+        "frontRoman": "ch",
+        "backEn": "Tulu Consonant sound: /ch/ (Class ID #120)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಚ",
+        "frontRoman": "cha",
+        "backEn": "Tulu Consonant sound: /cha/ (Class ID #121)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಛ್",
+        "frontRoman": "chh",
+        "backEn": "Tulu Consonant sound: /chh/ (Class ID #140)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಛ",
+        "frontRoman": "chha",
+        "backEn": "Tulu Consonant sound: /chha/ (Class ID #141)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಜ್",
+        "frontRoman": "j",
+        "backEn": "Tulu Consonant sound: /j/ (Class ID #160)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಜ",
+        "frontRoman": "ja",
+        "backEn": "Tulu Consonant sound: /ja/ (Class ID #161)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಝ್",
+        "frontRoman": "jh",
+        "backEn": "Tulu Consonant sound: /jh/ (Class ID #180)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಝ",
+        "frontRoman": "jha",
+        "backEn": "Tulu Consonant sound: /jha/ (Class ID #181)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಞ್",
+        "frontRoman": "nj",
+        "backEn": "Tulu Consonant sound: /nj/ (Class ID #200)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಞ",
+        "frontRoman": "nja",
+        "backEn": "Tulu Consonant sound: /nja/ (Class ID #201)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಟ್",
+        "frontRoman": "T",
+        "backEn": "Tulu Consonant sound: /T/ (Class ID #220)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಟ",
+        "frontRoman": "Ta",
+        "backEn": "Tulu Consonant sound: /Ta/ (Class ID #221)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಠ್",
+        "frontRoman": "Th",
+        "backEn": "Tulu Consonant sound: /Th/ (Class ID #240)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಠ",
+        "frontRoman": "Tha",
+        "backEn": "Tulu Consonant sound: /Tha/ (Class ID #241)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಡ್",
+        "frontRoman": "D",
+        "backEn": "Tulu Consonant sound: /D/ (Class ID #260)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಡ",
+        "frontRoman": "Da",
+        "backEn": "Tulu Consonant sound: /Da/ (Class ID #261)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಢ್",
+        "frontRoman": "Dh",
+        "backEn": "Tulu Consonant sound: /Dh/ (Class ID #280)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಢ",
+        "frontRoman": "Dha",
+        "backEn": "Tulu Consonant sound: /Dha/ (Class ID #281)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಣ್",
+        "frontRoman": "N",
+        "backEn": "Tulu Consonant sound: /N/ (Class ID #300)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಣ",
+        "frontRoman": "Na",
+        "backEn": "Tulu Consonant sound: /Na/ (Class ID #301)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ತ್",
+        "frontRoman": "t",
+        "backEn": "Tulu Consonant sound: /t/ (Class ID #320)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ತ",
+        "frontRoman": "ta",
+        "backEn": "Tulu Consonant sound: /ta/ (Class ID #321)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಥ್",
+        "frontRoman": "th",
+        "backEn": "Tulu Consonant sound: /th/ (Class ID #340)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಥ",
+        "frontRoman": "tha",
+        "backEn": "Tulu Consonant sound: /tha/ (Class ID #341)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ದ್",
+        "frontRoman": "d",
+        "backEn": "Tulu Consonant sound: /d/ (Class ID #360)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ದ",
+        "frontRoman": "da",
+        "backEn": "Tulu Consonant sound: /da/ (Class ID #361)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಧ್",
+        "frontRoman": "dh",
+        "backEn": "Tulu Consonant sound: /dh/ (Class ID #380)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಧ",
+        "frontRoman": "dha",
+        "backEn": "Tulu Consonant sound: /dha/ (Class ID #381)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ನ್",
+        "frontRoman": "n",
+        "backEn": "Tulu Consonant sound: /n/ (Class ID #400)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ನ",
+        "frontRoman": "na",
+        "backEn": "Tulu Consonant sound: /na/ (Class ID #401)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಪ್",
+        "frontRoman": "p",
+        "backEn": "Tulu Consonant sound: /p/ (Class ID #420)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಪ",
+        "frontRoman": "pa",
+        "backEn": "Tulu Consonant sound: /pa/ (Class ID #421)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಫ್",
+        "frontRoman": "ph",
+        "backEn": "Tulu Consonant sound: /ph/ (Class ID #440)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಫ",
+        "frontRoman": "pha",
+        "backEn": "Tulu Consonant sound: /pha/ (Class ID #441)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಬ್",
+        "frontRoman": "b",
+        "backEn": "Tulu Consonant sound: /b/ (Class ID #460)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಬ",
+        "frontRoman": "ba",
+        "backEn": "Tulu Consonant sound: /ba/ (Class ID #461)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಭ್",
+        "frontRoman": "bh",
+        "backEn": "Tulu Consonant sound: /bh/ (Class ID #480)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಭ",
+        "frontRoman": "bha",
+        "backEn": "Tulu Consonant sound: /bha/ (Class ID #481)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಮ್",
+        "frontRoman": "m",
+        "backEn": "Tulu Consonant sound: /m/ (Class ID #500)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಮ",
+        "frontRoman": "ma",
+        "backEn": "Tulu Consonant sound: /ma/ (Class ID #501)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಯ್",
+        "frontRoman": "y",
+        "backEn": "Tulu Consonant sound: /y/ (Class ID #520)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಯ",
+        "frontRoman": "ya",
+        "backEn": "Tulu Consonant sound: /ya/ (Class ID #521)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ರ್",
+        "frontRoman": "r",
+        "backEn": "Tulu Consonant sound: /r/ (Class ID #540)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ರ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Consonant sound: /ra/ (Class ID #541)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಲ್",
+        "frontRoman": "l",
+        "backEn": "Tulu Consonant sound: /l/ (Class ID #560)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಲ",
+        "frontRoman": "la",
+        "backEn": "Tulu Consonant sound: /la/ (Class ID #561)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ವ್",
+        "frontRoman": "v",
+        "backEn": "Tulu Consonant sound: /v/ (Class ID #580)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ವ",
+        "frontRoman": "va",
+        "backEn": "Tulu Consonant sound: /va/ (Class ID #581)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಶ್",
+        "frontRoman": "sh",
+        "backEn": "Tulu Consonant sound: /sh/ (Class ID #600)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಶ",
+        "frontRoman": "sha",
+        "backEn": "Tulu Consonant sound: /sha/ (Class ID #601)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಷ್",
+        "frontRoman": "shh",
+        "backEn": "Tulu Consonant sound: /shh/ (Class ID #620)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಷ",
+        "frontRoman": "shha",
+        "backEn": "Tulu Consonant sound: /shha/ (Class ID #621)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಸ್",
+        "frontRoman": "s",
+        "backEn": "Tulu Consonant sound: /s/ (Class ID #640)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಸ",
+        "frontRoman": "sa",
+        "backEn": "Tulu Consonant sound: /sa/ (Class ID #641)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಹ್",
+        "frontRoman": "h",
+        "backEn": "Tulu Consonant sound: /h/ (Class ID #660)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಹ",
+        "frontRoman": "ha",
+        "backEn": "Tulu Consonant sound: /ha/ (Class ID #661)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಳ್",
+        "frontRoman": "L",
+        "backEn": "Tulu Consonant sound: /L/ (Class ID #680)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      },
+      {
+        "frontNative": "ಳ",
+        "frontRoman": "La",
+        "backEn": "Tulu Consonant sound: /La/ (Class ID #681)",
+        "culturalTip": "Primary Tulu consonant sound (Vyanjanagalu)"
+      }
+    ]
+  },
+  {
+    "id": "tcy-lesson-kagunita",
+    "langCode": "tcy",
+    "title": "Tulu Script 3: Compound Syllabary (ಕಾಗುಣಿತ Master Deck)",
+    "category": "Alphabets",
+    "difficulty": "Intermediate",
+    "description": "Comprehensive deck of 611 Tulu compound matra characters.",
+    "order": 3,
+    "cards": [
+      {
+        "frontNative": "ಕಾ",
+        "frontRoman": "kaaa",
+        "backEn": "Tulu Syllabary combination: /kaaa/ (Class ID #22)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕಿ",
+        "frontRoman": "kai",
+        "backEn": "Tulu Syllabary combination: /kai/ (Class ID #23)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೀ",
+        "frontRoman": "kaii",
+        "backEn": "Tulu Syllabary combination: /kaii/ (Class ID #24)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕು",
+        "frontRoman": "kau",
+        "backEn": "Tulu Syllabary combination: /kau/ (Class ID #25)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕು",
+        "frontRoman": "kau",
+        "backEn": "Tulu Syllabary combination: /kau/ (Class ID #26)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೂ",
+        "frontRoman": "kauu",
+        "backEn": "Tulu Syllabary combination: /kauu/ (Class ID #27)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೃ",
+        "frontRoman": "ka",
+        "backEn": "Tulu Syllabary combination: /ka/ (Class ID #28)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೆ",
+        "frontRoman": "kae",
+        "backEn": "Tulu Syllabary combination: /kae/ (Class ID #29)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೇ",
+        "frontRoman": "kaee",
+        "backEn": "Tulu Syllabary combination: /kaee/ (Class ID #30)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೆ''",
+        "frontRoman": "kae",
+        "backEn": "Tulu Syllabary combination: /kae/ (Class ID #31)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೇ''",
+        "frontRoman": "kaee",
+        "backEn": "Tulu Syllabary combination: /kaee/ (Class ID #32)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೈ",
+        "frontRoman": "kaai",
+        "backEn": "Tulu Syllabary combination: /kaai/ (Class ID #33)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೊ",
+        "frontRoman": "kao",
+        "backEn": "Tulu Syllabary combination: /kao/ (Class ID #34)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೋ",
+        "frontRoman": "kaoo",
+        "backEn": "Tulu Syllabary combination: /kaoo/ (Class ID #35)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕೌ",
+        "frontRoman": "kaau",
+        "backEn": "Tulu Syllabary combination: /kaau/ (Class ID #36)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕಂ",
+        "frontRoman": "kam",
+        "backEn": "Tulu Syllabary combination: /kam/ (Class ID #37)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಕಃ",
+        "frontRoman": "kah",
+        "backEn": "Tulu Syllabary combination: /kah/ (Class ID #38)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಕ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #39)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖಾ",
+        "frontRoman": "khaaa",
+        "backEn": "Tulu Syllabary combination: /khaaa/ (Class ID #42)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖಿ",
+        "frontRoman": "khai",
+        "backEn": "Tulu Syllabary combination: /khai/ (Class ID #43)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೀ",
+        "frontRoman": "khaii",
+        "backEn": "Tulu Syllabary combination: /khaii/ (Class ID #44)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖು",
+        "frontRoman": "khau",
+        "backEn": "Tulu Syllabary combination: /khau/ (Class ID #45)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖು",
+        "frontRoman": "khau",
+        "backEn": "Tulu Syllabary combination: /khau/ (Class ID #46)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೂ",
+        "frontRoman": "khauu",
+        "backEn": "Tulu Syllabary combination: /khauu/ (Class ID #47)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೃ",
+        "frontRoman": "kha",
+        "backEn": "Tulu Syllabary combination: /kha/ (Class ID #48)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೆ",
+        "frontRoman": "khae",
+        "backEn": "Tulu Syllabary combination: /khae/ (Class ID #49)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೇ",
+        "frontRoman": "khaee",
+        "backEn": "Tulu Syllabary combination: /khaee/ (Class ID #50)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೆ''",
+        "frontRoman": "khae",
+        "backEn": "Tulu Syllabary combination: /khae/ (Class ID #51)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೇ''",
+        "frontRoman": "khaee",
+        "backEn": "Tulu Syllabary combination: /khaee/ (Class ID #52)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೈ",
+        "frontRoman": "khaai",
+        "backEn": "Tulu Syllabary combination: /khaai/ (Class ID #53)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೊ",
+        "frontRoman": "khao",
+        "backEn": "Tulu Syllabary combination: /khao/ (Class ID #54)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೋ",
+        "frontRoman": "khaoo",
+        "backEn": "Tulu Syllabary combination: /khaoo/ (Class ID #55)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖೌ",
+        "frontRoman": "khaau",
+        "backEn": "Tulu Syllabary combination: /khaau/ (Class ID #56)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖಂ",
+        "frontRoman": "kham",
+        "backEn": "Tulu Syllabary combination: /kham/ (Class ID #57)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಖಃ",
+        "frontRoman": "khah",
+        "backEn": "Tulu Syllabary combination: /khah/ (Class ID #58)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಖ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #59)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗಾ",
+        "frontRoman": "gaaa",
+        "backEn": "Tulu Syllabary combination: /gaaa/ (Class ID #62)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗಿ",
+        "frontRoman": "gai",
+        "backEn": "Tulu Syllabary combination: /gai/ (Class ID #63)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೀ",
+        "frontRoman": "gaii",
+        "backEn": "Tulu Syllabary combination: /gaii/ (Class ID #64)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗು",
+        "frontRoman": "gau",
+        "backEn": "Tulu Syllabary combination: /gau/ (Class ID #65)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗು",
+        "frontRoman": "gau",
+        "backEn": "Tulu Syllabary combination: /gau/ (Class ID #66)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೂ",
+        "frontRoman": "gauu",
+        "backEn": "Tulu Syllabary combination: /gauu/ (Class ID #67)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೃ",
+        "frontRoman": "ga",
+        "backEn": "Tulu Syllabary combination: /ga/ (Class ID #68)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೆ",
+        "frontRoman": "gae",
+        "backEn": "Tulu Syllabary combination: /gae/ (Class ID #69)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೇ",
+        "frontRoman": "gaee",
+        "backEn": "Tulu Syllabary combination: /gaee/ (Class ID #70)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೆ''",
+        "frontRoman": "gae",
+        "backEn": "Tulu Syllabary combination: /gae/ (Class ID #71)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೇ''",
+        "frontRoman": "gaee",
+        "backEn": "Tulu Syllabary combination: /gaee/ (Class ID #72)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೈ",
+        "frontRoman": "gaai",
+        "backEn": "Tulu Syllabary combination: /gaai/ (Class ID #73)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೊ",
+        "frontRoman": "gao",
+        "backEn": "Tulu Syllabary combination: /gao/ (Class ID #74)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೋ",
+        "frontRoman": "gaoo",
+        "backEn": "Tulu Syllabary combination: /gaoo/ (Class ID #75)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗೌ",
+        "frontRoman": "gaau",
+        "backEn": "Tulu Syllabary combination: /gaau/ (Class ID #76)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗಂ",
+        "frontRoman": "gam",
+        "backEn": "Tulu Syllabary combination: /gam/ (Class ID #77)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಗಃ",
+        "frontRoman": "gah",
+        "backEn": "Tulu Syllabary combination: /gah/ (Class ID #78)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಗ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #79)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘಾ",
+        "frontRoman": "ghaaa",
+        "backEn": "Tulu Syllabary combination: /ghaaa/ (Class ID #82)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘಿ",
+        "frontRoman": "ghai",
+        "backEn": "Tulu Syllabary combination: /ghai/ (Class ID #83)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೀ",
+        "frontRoman": "ghaii",
+        "backEn": "Tulu Syllabary combination: /ghaii/ (Class ID #84)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘು",
+        "frontRoman": "ghau",
+        "backEn": "Tulu Syllabary combination: /ghau/ (Class ID #85)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘು",
+        "frontRoman": "ghau",
+        "backEn": "Tulu Syllabary combination: /ghau/ (Class ID #86)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೂ",
+        "frontRoman": "ghauu",
+        "backEn": "Tulu Syllabary combination: /ghauu/ (Class ID #87)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೃ",
+        "frontRoman": "gha",
+        "backEn": "Tulu Syllabary combination: /gha/ (Class ID #88)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೆ",
+        "frontRoman": "ghae",
+        "backEn": "Tulu Syllabary combination: /ghae/ (Class ID #89)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೇ",
+        "frontRoman": "ghaee",
+        "backEn": "Tulu Syllabary combination: /ghaee/ (Class ID #90)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೆ''",
+        "frontRoman": "ghae",
+        "backEn": "Tulu Syllabary combination: /ghae/ (Class ID #91)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೇ''",
+        "frontRoman": "ghaee",
+        "backEn": "Tulu Syllabary combination: /ghaee/ (Class ID #92)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೈ",
+        "frontRoman": "ghaai",
+        "backEn": "Tulu Syllabary combination: /ghaai/ (Class ID #93)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೊ",
+        "frontRoman": "ghao",
+        "backEn": "Tulu Syllabary combination: /ghao/ (Class ID #94)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೋ",
+        "frontRoman": "ghaoo",
+        "backEn": "Tulu Syllabary combination: /ghaoo/ (Class ID #95)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘೌ",
+        "frontRoman": "ghaau",
+        "backEn": "Tulu Syllabary combination: /ghaau/ (Class ID #96)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘಂ",
+        "frontRoman": "gham",
+        "backEn": "Tulu Syllabary combination: /gham/ (Class ID #97)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಘಃ",
+        "frontRoman": "ghah",
+        "backEn": "Tulu Syllabary combination: /ghah/ (Class ID #98)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಘ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #99)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙಾ",
+        "frontRoman": "ngaaa",
+        "backEn": "Tulu Syllabary combination: /ngaaa/ (Class ID #102)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙಿ",
+        "frontRoman": "ngai",
+        "backEn": "Tulu Syllabary combination: /ngai/ (Class ID #103)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೀ",
+        "frontRoman": "ngaii",
+        "backEn": "Tulu Syllabary combination: /ngaii/ (Class ID #104)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙು",
+        "frontRoman": "ngau",
+        "backEn": "Tulu Syllabary combination: /ngau/ (Class ID #105)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙು",
+        "frontRoman": "ngau",
+        "backEn": "Tulu Syllabary combination: /ngau/ (Class ID #106)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೂ",
+        "frontRoman": "ngauu",
+        "backEn": "Tulu Syllabary combination: /ngauu/ (Class ID #107)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೃ",
+        "frontRoman": "nga",
+        "backEn": "Tulu Syllabary combination: /nga/ (Class ID #108)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೆ",
+        "frontRoman": "ngae",
+        "backEn": "Tulu Syllabary combination: /ngae/ (Class ID #109)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೇ",
+        "frontRoman": "ngaee",
+        "backEn": "Tulu Syllabary combination: /ngaee/ (Class ID #110)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೆ''",
+        "frontRoman": "ngae",
+        "backEn": "Tulu Syllabary combination: /ngae/ (Class ID #111)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೇ''",
+        "frontRoman": "ngaee",
+        "backEn": "Tulu Syllabary combination: /ngaee/ (Class ID #112)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೈ",
+        "frontRoman": "ngaai",
+        "backEn": "Tulu Syllabary combination: /ngaai/ (Class ID #113)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೊ",
+        "frontRoman": "ngao",
+        "backEn": "Tulu Syllabary combination: /ngao/ (Class ID #114)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೋ",
+        "frontRoman": "ngaoo",
+        "backEn": "Tulu Syllabary combination: /ngaoo/ (Class ID #115)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙೌ",
+        "frontRoman": "ngaau",
+        "backEn": "Tulu Syllabary combination: /ngaau/ (Class ID #116)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙಂ",
+        "frontRoman": "ngam",
+        "backEn": "Tulu Syllabary combination: /ngam/ (Class ID #117)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಙಃ",
+        "frontRoman": "ngah",
+        "backEn": "Tulu Syllabary combination: /ngah/ (Class ID #118)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಙ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #119)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚಾ",
+        "frontRoman": "chaaa",
+        "backEn": "Tulu Syllabary combination: /chaaa/ (Class ID #122)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚಿ",
+        "frontRoman": "chai",
+        "backEn": "Tulu Syllabary combination: /chai/ (Class ID #123)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೀ",
+        "frontRoman": "chaii",
+        "backEn": "Tulu Syllabary combination: /chaii/ (Class ID #124)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚು",
+        "frontRoman": "chau",
+        "backEn": "Tulu Syllabary combination: /chau/ (Class ID #125)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚು",
+        "frontRoman": "chau",
+        "backEn": "Tulu Syllabary combination: /chau/ (Class ID #126)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೂ",
+        "frontRoman": "chauu",
+        "backEn": "Tulu Syllabary combination: /chauu/ (Class ID #127)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೆ",
+        "frontRoman": "chae",
+        "backEn": "Tulu Syllabary combination: /chae/ (Class ID #129)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೇ",
+        "frontRoman": "chaee",
+        "backEn": "Tulu Syllabary combination: /chaee/ (Class ID #130)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೆ''",
+        "frontRoman": "chae",
+        "backEn": "Tulu Syllabary combination: /chae/ (Class ID #131)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೇ''",
+        "frontRoman": "chaee",
+        "backEn": "Tulu Syllabary combination: /chaee/ (Class ID #132)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೈ",
+        "frontRoman": "chaai",
+        "backEn": "Tulu Syllabary combination: /chaai/ (Class ID #133)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೊ",
+        "frontRoman": "chao",
+        "backEn": "Tulu Syllabary combination: /chao/ (Class ID #134)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೋ",
+        "frontRoman": "chaoo",
+        "backEn": "Tulu Syllabary combination: /chaoo/ (Class ID #135)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚೌ",
+        "frontRoman": "chaau",
+        "backEn": "Tulu Syllabary combination: /chaau/ (Class ID #136)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚಂ",
+        "frontRoman": "cham",
+        "backEn": "Tulu Syllabary combination: /cham/ (Class ID #137)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಚಃ",
+        "frontRoman": "chah",
+        "backEn": "Tulu Syllabary combination: /chah/ (Class ID #138)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಚ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #139)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛಾ",
+        "frontRoman": "chhaaa",
+        "backEn": "Tulu Syllabary combination: /chhaaa/ (Class ID #142)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛಿ",
+        "frontRoman": "chhai",
+        "backEn": "Tulu Syllabary combination: /chhai/ (Class ID #143)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೀ",
+        "frontRoman": "chhaii",
+        "backEn": "Tulu Syllabary combination: /chhaii/ (Class ID #144)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛು",
+        "frontRoman": "chhau",
+        "backEn": "Tulu Syllabary combination: /chhau/ (Class ID #145)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛು",
+        "frontRoman": "chhau",
+        "backEn": "Tulu Syllabary combination: /chhau/ (Class ID #146)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೂ",
+        "frontRoman": "chhauu",
+        "backEn": "Tulu Syllabary combination: /chhauu/ (Class ID #147)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೃ",
+        "frontRoman": "chha",
+        "backEn": "Tulu Syllabary combination: /chha/ (Class ID #148)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೆ",
+        "frontRoman": "chhae",
+        "backEn": "Tulu Syllabary combination: /chhae/ (Class ID #149)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೇ",
+        "frontRoman": "chhaee",
+        "backEn": "Tulu Syllabary combination: /chhaee/ (Class ID #150)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೆ''",
+        "frontRoman": "chhae",
+        "backEn": "Tulu Syllabary combination: /chhae/ (Class ID #151)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೇ''",
+        "frontRoman": "chhaee",
+        "backEn": "Tulu Syllabary combination: /chhaee/ (Class ID #152)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೈ",
+        "frontRoman": "chhaai",
+        "backEn": "Tulu Syllabary combination: /chhaai/ (Class ID #153)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೊ",
+        "frontRoman": "chhao",
+        "backEn": "Tulu Syllabary combination: /chhao/ (Class ID #154)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೋ",
+        "frontRoman": "chhaoo",
+        "backEn": "Tulu Syllabary combination: /chhaoo/ (Class ID #155)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛೌ",
+        "frontRoman": "chhaau",
+        "backEn": "Tulu Syllabary combination: /chhaau/ (Class ID #156)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛಂ",
+        "frontRoman": "chham",
+        "backEn": "Tulu Syllabary combination: /chham/ (Class ID #157)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಛಃ",
+        "frontRoman": "chhah",
+        "backEn": "Tulu Syllabary combination: /chhah/ (Class ID #158)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಛ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #159)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜಾ",
+        "frontRoman": "jaaa",
+        "backEn": "Tulu Syllabary combination: /jaaa/ (Class ID #162)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜಿ",
+        "frontRoman": "jai",
+        "backEn": "Tulu Syllabary combination: /jai/ (Class ID #163)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೀ",
+        "frontRoman": "jaii",
+        "backEn": "Tulu Syllabary combination: /jaii/ (Class ID #164)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜು",
+        "frontRoman": "jau",
+        "backEn": "Tulu Syllabary combination: /jau/ (Class ID #165)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜು",
+        "frontRoman": "jau",
+        "backEn": "Tulu Syllabary combination: /jau/ (Class ID #166)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೂ",
+        "frontRoman": "jauu",
+        "backEn": "Tulu Syllabary combination: /jauu/ (Class ID #167)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೃ",
+        "frontRoman": "ja",
+        "backEn": "Tulu Syllabary combination: /ja/ (Class ID #168)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೆ",
+        "frontRoman": "jae",
+        "backEn": "Tulu Syllabary combination: /jae/ (Class ID #169)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೇ",
+        "frontRoman": "jaee",
+        "backEn": "Tulu Syllabary combination: /jaee/ (Class ID #170)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೆ''",
+        "frontRoman": "jae",
+        "backEn": "Tulu Syllabary combination: /jae/ (Class ID #171)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೇ''",
+        "frontRoman": "jaee",
+        "backEn": "Tulu Syllabary combination: /jaee/ (Class ID #172)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೈ",
+        "frontRoman": "jaai",
+        "backEn": "Tulu Syllabary combination: /jaai/ (Class ID #173)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೊ",
+        "frontRoman": "jao",
+        "backEn": "Tulu Syllabary combination: /jao/ (Class ID #174)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೋ",
+        "frontRoman": "jaoo",
+        "backEn": "Tulu Syllabary combination: /jaoo/ (Class ID #175)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜೌ",
+        "frontRoman": "jaau",
+        "backEn": "Tulu Syllabary combination: /jaau/ (Class ID #176)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜಂ",
+        "frontRoman": "jam",
+        "backEn": "Tulu Syllabary combination: /jam/ (Class ID #177)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಜಃ",
+        "frontRoman": "jah",
+        "backEn": "Tulu Syllabary combination: /jah/ (Class ID #178)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಜ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #179)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝಾ",
+        "frontRoman": "jhaaa",
+        "backEn": "Tulu Syllabary combination: /jhaaa/ (Class ID #182)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝಿ",
+        "frontRoman": "jhai",
+        "backEn": "Tulu Syllabary combination: /jhai/ (Class ID #183)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೀ",
+        "frontRoman": "jhaii",
+        "backEn": "Tulu Syllabary combination: /jhaii/ (Class ID #184)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝು",
+        "frontRoman": "jhau",
+        "backEn": "Tulu Syllabary combination: /jhau/ (Class ID #185)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝು",
+        "frontRoman": "jhau",
+        "backEn": "Tulu Syllabary combination: /jhau/ (Class ID #186)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೂ",
+        "frontRoman": "jhauu",
+        "backEn": "Tulu Syllabary combination: /jhauu/ (Class ID #187)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೃ",
+        "frontRoman": "jha",
+        "backEn": "Tulu Syllabary combination: /jha/ (Class ID #188)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೆ",
+        "frontRoman": "jhae",
+        "backEn": "Tulu Syllabary combination: /jhae/ (Class ID #189)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೇ",
+        "frontRoman": "jhaee",
+        "backEn": "Tulu Syllabary combination: /jhaee/ (Class ID #190)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೆ''",
+        "frontRoman": "jhae",
+        "backEn": "Tulu Syllabary combination: /jhae/ (Class ID #191)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೇ''",
+        "frontRoman": "jhaee",
+        "backEn": "Tulu Syllabary combination: /jhaee/ (Class ID #192)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೈ",
+        "frontRoman": "jhaai",
+        "backEn": "Tulu Syllabary combination: /jhaai/ (Class ID #193)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೊ",
+        "frontRoman": "jhao",
+        "backEn": "Tulu Syllabary combination: /jhao/ (Class ID #194)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೋ",
+        "frontRoman": "jhaoo",
+        "backEn": "Tulu Syllabary combination: /jhaoo/ (Class ID #195)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝೌ",
+        "frontRoman": "jhaau",
+        "backEn": "Tulu Syllabary combination: /jhaau/ (Class ID #196)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝಂ",
+        "frontRoman": "jham",
+        "backEn": "Tulu Syllabary combination: /jham/ (Class ID #197)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಝಃ",
+        "frontRoman": "jhah",
+        "backEn": "Tulu Syllabary combination: /jhah/ (Class ID #198)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಝ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #199)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞಾ",
+        "frontRoman": "njaaa",
+        "backEn": "Tulu Syllabary combination: /njaaa/ (Class ID #202)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞಿ",
+        "frontRoman": "njai",
+        "backEn": "Tulu Syllabary combination: /njai/ (Class ID #203)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೀ",
+        "frontRoman": "njaii",
+        "backEn": "Tulu Syllabary combination: /njaii/ (Class ID #204)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞು",
+        "frontRoman": "njau",
+        "backEn": "Tulu Syllabary combination: /njau/ (Class ID #205)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞು",
+        "frontRoman": "njau",
+        "backEn": "Tulu Syllabary combination: /njau/ (Class ID #206)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೂ",
+        "frontRoman": "njauu",
+        "backEn": "Tulu Syllabary combination: /njauu/ (Class ID #207)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೃ",
+        "frontRoman": "nja",
+        "backEn": "Tulu Syllabary combination: /nja/ (Class ID #208)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೆ",
+        "frontRoman": "njae",
+        "backEn": "Tulu Syllabary combination: /njae/ (Class ID #209)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೇ",
+        "frontRoman": "njaee",
+        "backEn": "Tulu Syllabary combination: /njaee/ (Class ID #210)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೆ''",
+        "frontRoman": "njae",
+        "backEn": "Tulu Syllabary combination: /njae/ (Class ID #211)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೇ''",
+        "frontRoman": "njaee",
+        "backEn": "Tulu Syllabary combination: /njaee/ (Class ID #212)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೈ",
+        "frontRoman": "njaai",
+        "backEn": "Tulu Syllabary combination: /njaai/ (Class ID #213)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೊ",
+        "frontRoman": "njao",
+        "backEn": "Tulu Syllabary combination: /njao/ (Class ID #214)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೋ",
+        "frontRoman": "njaoo",
+        "backEn": "Tulu Syllabary combination: /njaoo/ (Class ID #215)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞೌ",
+        "frontRoman": "njaau",
+        "backEn": "Tulu Syllabary combination: /njaau/ (Class ID #216)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞಂ",
+        "frontRoman": "njam",
+        "backEn": "Tulu Syllabary combination: /njam/ (Class ID #217)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಞಃ",
+        "frontRoman": "njah",
+        "backEn": "Tulu Syllabary combination: /njah/ (Class ID #218)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಞ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #219)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟಾ",
+        "frontRoman": "Taaa",
+        "backEn": "Tulu Syllabary combination: /Taaa/ (Class ID #222)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟಿ",
+        "frontRoman": "Tai",
+        "backEn": "Tulu Syllabary combination: /Tai/ (Class ID #223)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೀ",
+        "frontRoman": "Taii",
+        "backEn": "Tulu Syllabary combination: /Taii/ (Class ID #224)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟು",
+        "frontRoman": "Tau",
+        "backEn": "Tulu Syllabary combination: /Tau/ (Class ID #225)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟು",
+        "frontRoman": "Tau",
+        "backEn": "Tulu Syllabary combination: /Tau/ (Class ID #226)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೂ",
+        "frontRoman": "Tauu",
+        "backEn": "Tulu Syllabary combination: /Tauu/ (Class ID #227)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೃ",
+        "frontRoman": "Ta",
+        "backEn": "Tulu Syllabary combination: /Ta/ (Class ID #228)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೆ",
+        "frontRoman": "Tae",
+        "backEn": "Tulu Syllabary combination: /Tae/ (Class ID #229)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೇ",
+        "frontRoman": "Taee",
+        "backEn": "Tulu Syllabary combination: /Taee/ (Class ID #230)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೆ''",
+        "frontRoman": "Tae",
+        "backEn": "Tulu Syllabary combination: /Tae/ (Class ID #231)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೇ''",
+        "frontRoman": "Taee",
+        "backEn": "Tulu Syllabary combination: /Taee/ (Class ID #232)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೈ",
+        "frontRoman": "Taai",
+        "backEn": "Tulu Syllabary combination: /Taai/ (Class ID #233)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೊ",
+        "frontRoman": "Tao",
+        "backEn": "Tulu Syllabary combination: /Tao/ (Class ID #234)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೋ",
+        "frontRoman": "Taoo",
+        "backEn": "Tulu Syllabary combination: /Taoo/ (Class ID #235)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟೌ",
+        "frontRoman": "Taau",
+        "backEn": "Tulu Syllabary combination: /Taau/ (Class ID #236)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟಂ",
+        "frontRoman": "Tam",
+        "backEn": "Tulu Syllabary combination: /Tam/ (Class ID #237)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಟಃ",
+        "frontRoman": "Tah",
+        "backEn": "Tulu Syllabary combination: /Tah/ (Class ID #238)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಟ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #239)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠಾ",
+        "frontRoman": "Thaaa",
+        "backEn": "Tulu Syllabary combination: /Thaaa/ (Class ID #242)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠಿ",
+        "frontRoman": "Thai",
+        "backEn": "Tulu Syllabary combination: /Thai/ (Class ID #243)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೀ",
+        "frontRoman": "Thaii",
+        "backEn": "Tulu Syllabary combination: /Thaii/ (Class ID #244)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠು",
+        "frontRoman": "Thau",
+        "backEn": "Tulu Syllabary combination: /Thau/ (Class ID #245)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠು",
+        "frontRoman": "Thau",
+        "backEn": "Tulu Syllabary combination: /Thau/ (Class ID #246)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೂ",
+        "frontRoman": "Thauu",
+        "backEn": "Tulu Syllabary combination: /Thauu/ (Class ID #247)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೃ",
+        "frontRoman": "Tha",
+        "backEn": "Tulu Syllabary combination: /Tha/ (Class ID #248)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೆ",
+        "frontRoman": "Thae",
+        "backEn": "Tulu Syllabary combination: /Thae/ (Class ID #249)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೇ",
+        "frontRoman": "Thaee",
+        "backEn": "Tulu Syllabary combination: /Thaee/ (Class ID #250)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೆ''",
+        "frontRoman": "Thae",
+        "backEn": "Tulu Syllabary combination: /Thae/ (Class ID #251)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೇ''",
+        "frontRoman": "Thaee",
+        "backEn": "Tulu Syllabary combination: /Thaee/ (Class ID #252)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೈ",
+        "frontRoman": "Thaai",
+        "backEn": "Tulu Syllabary combination: /Thaai/ (Class ID #253)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೊ",
+        "frontRoman": "Thao",
+        "backEn": "Tulu Syllabary combination: /Thao/ (Class ID #254)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೋ",
+        "frontRoman": "Thaoo",
+        "backEn": "Tulu Syllabary combination: /Thaoo/ (Class ID #255)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠೌ",
+        "frontRoman": "Thaau",
+        "backEn": "Tulu Syllabary combination: /Thaau/ (Class ID #256)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠಂ",
+        "frontRoman": "Tham",
+        "backEn": "Tulu Syllabary combination: /Tham/ (Class ID #257)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಠಃ",
+        "frontRoman": "Thah",
+        "backEn": "Tulu Syllabary combination: /Thah/ (Class ID #258)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಠ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #259)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡಾ",
+        "frontRoman": "Daaa",
+        "backEn": "Tulu Syllabary combination: /Daaa/ (Class ID #262)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡಿ",
+        "frontRoman": "Dai",
+        "backEn": "Tulu Syllabary combination: /Dai/ (Class ID #263)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೀ",
+        "frontRoman": "Daii",
+        "backEn": "Tulu Syllabary combination: /Daii/ (Class ID #264)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡು",
+        "frontRoman": "Dau",
+        "backEn": "Tulu Syllabary combination: /Dau/ (Class ID #265)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡು",
+        "frontRoman": "Dau",
+        "backEn": "Tulu Syllabary combination: /Dau/ (Class ID #266)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೂ",
+        "frontRoman": "Dauu",
+        "backEn": "Tulu Syllabary combination: /Dauu/ (Class ID #267)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೃ",
+        "frontRoman": "Da",
+        "backEn": "Tulu Syllabary combination: /Da/ (Class ID #268)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೆ",
+        "frontRoman": "Dae",
+        "backEn": "Tulu Syllabary combination: /Dae/ (Class ID #269)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೇ",
+        "frontRoman": "Daee",
+        "backEn": "Tulu Syllabary combination: /Daee/ (Class ID #270)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೆ''",
+        "frontRoman": "Dae",
+        "backEn": "Tulu Syllabary combination: /Dae/ (Class ID #271)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೇ''",
+        "frontRoman": "Daee",
+        "backEn": "Tulu Syllabary combination: /Daee/ (Class ID #272)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೈ",
+        "frontRoman": "Daai",
+        "backEn": "Tulu Syllabary combination: /Daai/ (Class ID #273)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೊ",
+        "frontRoman": "Dao",
+        "backEn": "Tulu Syllabary combination: /Dao/ (Class ID #274)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೋ",
+        "frontRoman": "Daoo",
+        "backEn": "Tulu Syllabary combination: /Daoo/ (Class ID #275)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡೌ",
+        "frontRoman": "Daau",
+        "backEn": "Tulu Syllabary combination: /Daau/ (Class ID #276)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡಂ",
+        "frontRoman": "Dam",
+        "backEn": "Tulu Syllabary combination: /Dam/ (Class ID #277)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಡಃ",
+        "frontRoman": "Dah",
+        "backEn": "Tulu Syllabary combination: /Dah/ (Class ID #278)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಡ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #279)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢಾ",
+        "frontRoman": "Dhaaa",
+        "backEn": "Tulu Syllabary combination: /Dhaaa/ (Class ID #282)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢಿ",
+        "frontRoman": "Dhai",
+        "backEn": "Tulu Syllabary combination: /Dhai/ (Class ID #283)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೀ",
+        "frontRoman": "Dhaii",
+        "backEn": "Tulu Syllabary combination: /Dhaii/ (Class ID #284)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢು",
+        "frontRoman": "Dhau",
+        "backEn": "Tulu Syllabary combination: /Dhau/ (Class ID #285)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢು",
+        "frontRoman": "Dhau",
+        "backEn": "Tulu Syllabary combination: /Dhau/ (Class ID #286)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೂ",
+        "frontRoman": "Dhauu",
+        "backEn": "Tulu Syllabary combination: /Dhauu/ (Class ID #287)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೃ",
+        "frontRoman": "Dha",
+        "backEn": "Tulu Syllabary combination: /Dha/ (Class ID #288)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೆ",
+        "frontRoman": "Dhae",
+        "backEn": "Tulu Syllabary combination: /Dhae/ (Class ID #289)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೇ",
+        "frontRoman": "Dhaee",
+        "backEn": "Tulu Syllabary combination: /Dhaee/ (Class ID #290)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೆ''",
+        "frontRoman": "Dhae",
+        "backEn": "Tulu Syllabary combination: /Dhae/ (Class ID #291)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೇ''",
+        "frontRoman": "Dhaee",
+        "backEn": "Tulu Syllabary combination: /Dhaee/ (Class ID #292)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೈ",
+        "frontRoman": "Dhaai",
+        "backEn": "Tulu Syllabary combination: /Dhaai/ (Class ID #293)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೊ",
+        "frontRoman": "Dhao",
+        "backEn": "Tulu Syllabary combination: /Dhao/ (Class ID #294)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೋ",
+        "frontRoman": "Dhaoo",
+        "backEn": "Tulu Syllabary combination: /Dhaoo/ (Class ID #295)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢೌ",
+        "frontRoman": "Dhaau",
+        "backEn": "Tulu Syllabary combination: /Dhaau/ (Class ID #296)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢಂ",
+        "frontRoman": "Dham",
+        "backEn": "Tulu Syllabary combination: /Dham/ (Class ID #297)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಢಃ",
+        "frontRoman": "Dhah",
+        "backEn": "Tulu Syllabary combination: /Dhah/ (Class ID #298)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಢ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #299)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣಾ",
+        "frontRoman": "Naaa",
+        "backEn": "Tulu Syllabary combination: /Naaa/ (Class ID #302)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣಿ",
+        "frontRoman": "Nai",
+        "backEn": "Tulu Syllabary combination: /Nai/ (Class ID #303)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೀ",
+        "frontRoman": "Naii",
+        "backEn": "Tulu Syllabary combination: /Naii/ (Class ID #304)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣು",
+        "frontRoman": "Nau",
+        "backEn": "Tulu Syllabary combination: /Nau/ (Class ID #305)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣು",
+        "frontRoman": "Nau",
+        "backEn": "Tulu Syllabary combination: /Nau/ (Class ID #306)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೂ",
+        "frontRoman": "Nauu",
+        "backEn": "Tulu Syllabary combination: /Nauu/ (Class ID #307)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೃ",
+        "frontRoman": "Na",
+        "backEn": "Tulu Syllabary combination: /Na/ (Class ID #308)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೆ",
+        "frontRoman": "Nae",
+        "backEn": "Tulu Syllabary combination: /Nae/ (Class ID #309)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೇ",
+        "frontRoman": "Naee",
+        "backEn": "Tulu Syllabary combination: /Naee/ (Class ID #310)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೆ''",
+        "frontRoman": "Nae",
+        "backEn": "Tulu Syllabary combination: /Nae/ (Class ID #311)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೇ''",
+        "frontRoman": "Naee",
+        "backEn": "Tulu Syllabary combination: /Naee/ (Class ID #312)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೈ",
+        "frontRoman": "Naai",
+        "backEn": "Tulu Syllabary combination: /Naai/ (Class ID #313)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೊ",
+        "frontRoman": "Nao",
+        "backEn": "Tulu Syllabary combination: /Nao/ (Class ID #314)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೋ",
+        "frontRoman": "Naoo",
+        "backEn": "Tulu Syllabary combination: /Naoo/ (Class ID #315)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣೌ",
+        "frontRoman": "Naau",
+        "backEn": "Tulu Syllabary combination: /Naau/ (Class ID #316)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣಂ",
+        "frontRoman": "Nam",
+        "backEn": "Tulu Syllabary combination: /Nam/ (Class ID #317)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಣಃ",
+        "frontRoman": "Nah",
+        "backEn": "Tulu Syllabary combination: /Nah/ (Class ID #318)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಣ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #319)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತಾ",
+        "frontRoman": "taaa",
+        "backEn": "Tulu Syllabary combination: /taaa/ (Class ID #322)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತಿ",
+        "frontRoman": "tai",
+        "backEn": "Tulu Syllabary combination: /tai/ (Class ID #323)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೀ",
+        "frontRoman": "taii",
+        "backEn": "Tulu Syllabary combination: /taii/ (Class ID #324)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತು",
+        "frontRoman": "tau",
+        "backEn": "Tulu Syllabary combination: /tau/ (Class ID #325)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತು",
+        "frontRoman": "tau",
+        "backEn": "Tulu Syllabary combination: /tau/ (Class ID #326)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೂ",
+        "frontRoman": "tauu",
+        "backEn": "Tulu Syllabary combination: /tauu/ (Class ID #327)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೃ",
+        "frontRoman": "ta",
+        "backEn": "Tulu Syllabary combination: /ta/ (Class ID #328)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೆ",
+        "frontRoman": "tae",
+        "backEn": "Tulu Syllabary combination: /tae/ (Class ID #329)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೇ",
+        "frontRoman": "taee",
+        "backEn": "Tulu Syllabary combination: /taee/ (Class ID #330)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೆ''",
+        "frontRoman": "tae",
+        "backEn": "Tulu Syllabary combination: /tae/ (Class ID #331)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೇ''",
+        "frontRoman": "taee",
+        "backEn": "Tulu Syllabary combination: /taee/ (Class ID #332)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೈ",
+        "frontRoman": "taai",
+        "backEn": "Tulu Syllabary combination: /taai/ (Class ID #333)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೊ",
+        "frontRoman": "tao",
+        "backEn": "Tulu Syllabary combination: /tao/ (Class ID #334)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೋ",
+        "frontRoman": "taoo",
+        "backEn": "Tulu Syllabary combination: /taoo/ (Class ID #335)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತೌ",
+        "frontRoman": "taau",
+        "backEn": "Tulu Syllabary combination: /taau/ (Class ID #336)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತಂ",
+        "frontRoman": "tam",
+        "backEn": "Tulu Syllabary combination: /tam/ (Class ID #337)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ತಃ",
+        "frontRoman": "tah",
+        "backEn": "Tulu Syllabary combination: /tah/ (Class ID #338)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ತ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #339)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥಾ",
+        "frontRoman": "thaaa",
+        "backEn": "Tulu Syllabary combination: /thaaa/ (Class ID #342)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥಿ",
+        "frontRoman": "thai",
+        "backEn": "Tulu Syllabary combination: /thai/ (Class ID #343)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೀ",
+        "frontRoman": "thaii",
+        "backEn": "Tulu Syllabary combination: /thaii/ (Class ID #344)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥು",
+        "frontRoman": "thau",
+        "backEn": "Tulu Syllabary combination: /thau/ (Class ID #345)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥು",
+        "frontRoman": "thau",
+        "backEn": "Tulu Syllabary combination: /thau/ (Class ID #346)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೂ",
+        "frontRoman": "thauu",
+        "backEn": "Tulu Syllabary combination: /thauu/ (Class ID #347)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೃ",
+        "frontRoman": "tha",
+        "backEn": "Tulu Syllabary combination: /tha/ (Class ID #348)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೆ",
+        "frontRoman": "thae",
+        "backEn": "Tulu Syllabary combination: /thae/ (Class ID #349)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೇ",
+        "frontRoman": "thaee",
+        "backEn": "Tulu Syllabary combination: /thaee/ (Class ID #350)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೆ''",
+        "frontRoman": "thae",
+        "backEn": "Tulu Syllabary combination: /thae/ (Class ID #351)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೇ''",
+        "frontRoman": "thaee",
+        "backEn": "Tulu Syllabary combination: /thaee/ (Class ID #352)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೈ",
+        "frontRoman": "thaai",
+        "backEn": "Tulu Syllabary combination: /thaai/ (Class ID #353)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೊ",
+        "frontRoman": "thao",
+        "backEn": "Tulu Syllabary combination: /thao/ (Class ID #354)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೋ",
+        "frontRoman": "thaoo",
+        "backEn": "Tulu Syllabary combination: /thaoo/ (Class ID #355)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥೌ",
+        "frontRoman": "thaau",
+        "backEn": "Tulu Syllabary combination: /thaau/ (Class ID #356)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥಂ",
+        "frontRoman": "tham",
+        "backEn": "Tulu Syllabary combination: /tham/ (Class ID #357)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಥಃ",
+        "frontRoman": "thah",
+        "backEn": "Tulu Syllabary combination: /thah/ (Class ID #358)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಥ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #359)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದಾ",
+        "frontRoman": "daaa",
+        "backEn": "Tulu Syllabary combination: /daaa/ (Class ID #362)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದಿ",
+        "frontRoman": "dai",
+        "backEn": "Tulu Syllabary combination: /dai/ (Class ID #363)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೀ",
+        "frontRoman": "daii",
+        "backEn": "Tulu Syllabary combination: /daii/ (Class ID #364)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದು",
+        "frontRoman": "dau",
+        "backEn": "Tulu Syllabary combination: /dau/ (Class ID #365)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದು",
+        "frontRoman": "dau",
+        "backEn": "Tulu Syllabary combination: /dau/ (Class ID #366)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೂ",
+        "frontRoman": "dauu",
+        "backEn": "Tulu Syllabary combination: /dauu/ (Class ID #367)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೃ",
+        "frontRoman": "da",
+        "backEn": "Tulu Syllabary combination: /da/ (Class ID #368)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೆ",
+        "frontRoman": "dae",
+        "backEn": "Tulu Syllabary combination: /dae/ (Class ID #369)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೇ",
+        "frontRoman": "daee",
+        "backEn": "Tulu Syllabary combination: /daee/ (Class ID #370)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೆ''",
+        "frontRoman": "dae",
+        "backEn": "Tulu Syllabary combination: /dae/ (Class ID #371)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೇ''",
+        "frontRoman": "daee",
+        "backEn": "Tulu Syllabary combination: /daee/ (Class ID #372)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೈ",
+        "frontRoman": "daai",
+        "backEn": "Tulu Syllabary combination: /daai/ (Class ID #373)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೊ",
+        "frontRoman": "dao",
+        "backEn": "Tulu Syllabary combination: /dao/ (Class ID #374)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೋ",
+        "frontRoman": "daoo",
+        "backEn": "Tulu Syllabary combination: /daoo/ (Class ID #375)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದೌ",
+        "frontRoman": "daau",
+        "backEn": "Tulu Syllabary combination: /daau/ (Class ID #376)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದಂ",
+        "frontRoman": "dam",
+        "backEn": "Tulu Syllabary combination: /dam/ (Class ID #377)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ದಃ",
+        "frontRoman": "dah",
+        "backEn": "Tulu Syllabary combination: /dah/ (Class ID #378)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ದ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #379)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧಾ",
+        "frontRoman": "dhaaa",
+        "backEn": "Tulu Syllabary combination: /dhaaa/ (Class ID #382)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧಿ",
+        "frontRoman": "dhai",
+        "backEn": "Tulu Syllabary combination: /dhai/ (Class ID #383)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೀ",
+        "frontRoman": "dhaii",
+        "backEn": "Tulu Syllabary combination: /dhaii/ (Class ID #384)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧು",
+        "frontRoman": "dhau",
+        "backEn": "Tulu Syllabary combination: /dhau/ (Class ID #385)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧು",
+        "frontRoman": "dhau",
+        "backEn": "Tulu Syllabary combination: /dhau/ (Class ID #386)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೂ",
+        "frontRoman": "dhauu",
+        "backEn": "Tulu Syllabary combination: /dhauu/ (Class ID #387)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೃ",
+        "frontRoman": "dha",
+        "backEn": "Tulu Syllabary combination: /dha/ (Class ID #388)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೆ",
+        "frontRoman": "dhae",
+        "backEn": "Tulu Syllabary combination: /dhae/ (Class ID #389)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೇ",
+        "frontRoman": "dhaee",
+        "backEn": "Tulu Syllabary combination: /dhaee/ (Class ID #390)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೆ''",
+        "frontRoman": "dhae",
+        "backEn": "Tulu Syllabary combination: /dhae/ (Class ID #391)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೇ''",
+        "frontRoman": "dhaee",
+        "backEn": "Tulu Syllabary combination: /dhaee/ (Class ID #392)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೈ",
+        "frontRoman": "dhaai",
+        "backEn": "Tulu Syllabary combination: /dhaai/ (Class ID #393)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೊ",
+        "frontRoman": "dhao",
+        "backEn": "Tulu Syllabary combination: /dhao/ (Class ID #394)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೋ",
+        "frontRoman": "dhaoo",
+        "backEn": "Tulu Syllabary combination: /dhaoo/ (Class ID #395)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧೌ",
+        "frontRoman": "dhaau",
+        "backEn": "Tulu Syllabary combination: /dhaau/ (Class ID #396)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧಂ",
+        "frontRoman": "dham",
+        "backEn": "Tulu Syllabary combination: /dham/ (Class ID #397)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಧಃ",
+        "frontRoman": "dhah",
+        "backEn": "Tulu Syllabary combination: /dhah/ (Class ID #398)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಧ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #399)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನಾ",
+        "frontRoman": "naaa",
+        "backEn": "Tulu Syllabary combination: /naaa/ (Class ID #402)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನಿ",
+        "frontRoman": "nai",
+        "backEn": "Tulu Syllabary combination: /nai/ (Class ID #403)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೀ",
+        "frontRoman": "naii",
+        "backEn": "Tulu Syllabary combination: /naii/ (Class ID #404)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನು",
+        "frontRoman": "nau",
+        "backEn": "Tulu Syllabary combination: /nau/ (Class ID #405)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನು",
+        "frontRoman": "nau",
+        "backEn": "Tulu Syllabary combination: /nau/ (Class ID #406)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೂ",
+        "frontRoman": "nauu",
+        "backEn": "Tulu Syllabary combination: /nauu/ (Class ID #407)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೃ",
+        "frontRoman": "na",
+        "backEn": "Tulu Syllabary combination: /na/ (Class ID #408)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೆ",
+        "frontRoman": "nae",
+        "backEn": "Tulu Syllabary combination: /nae/ (Class ID #409)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೇ",
+        "frontRoman": "naee",
+        "backEn": "Tulu Syllabary combination: /naee/ (Class ID #410)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೆ''",
+        "frontRoman": "nae",
+        "backEn": "Tulu Syllabary combination: /nae/ (Class ID #411)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೇ''",
+        "frontRoman": "naee",
+        "backEn": "Tulu Syllabary combination: /naee/ (Class ID #412)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೈ",
+        "frontRoman": "naai",
+        "backEn": "Tulu Syllabary combination: /naai/ (Class ID #413)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೊ",
+        "frontRoman": "nao",
+        "backEn": "Tulu Syllabary combination: /nao/ (Class ID #414)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೋ",
+        "frontRoman": "naoo",
+        "backEn": "Tulu Syllabary combination: /naoo/ (Class ID #415)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನೌ",
+        "frontRoman": "naau",
+        "backEn": "Tulu Syllabary combination: /naau/ (Class ID #416)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನಂ",
+        "frontRoman": "nam",
+        "backEn": "Tulu Syllabary combination: /nam/ (Class ID #417)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ನಃ",
+        "frontRoman": "nah",
+        "backEn": "Tulu Syllabary combination: /nah/ (Class ID #418)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ನ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #419)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪಾ",
+        "frontRoman": "paaa",
+        "backEn": "Tulu Syllabary combination: /paaa/ (Class ID #422)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪಿ",
+        "frontRoman": "pai",
+        "backEn": "Tulu Syllabary combination: /pai/ (Class ID #423)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೀ",
+        "frontRoman": "paii",
+        "backEn": "Tulu Syllabary combination: /paii/ (Class ID #424)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪು",
+        "frontRoman": "pau",
+        "backEn": "Tulu Syllabary combination: /pau/ (Class ID #425)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪು",
+        "frontRoman": "pau",
+        "backEn": "Tulu Syllabary combination: /pau/ (Class ID #426)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೂ",
+        "frontRoman": "pauu",
+        "backEn": "Tulu Syllabary combination: /pauu/ (Class ID #427)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೃ",
+        "frontRoman": "pa",
+        "backEn": "Tulu Syllabary combination: /pa/ (Class ID #428)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೆ",
+        "frontRoman": "pae",
+        "backEn": "Tulu Syllabary combination: /pae/ (Class ID #429)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೇ",
+        "frontRoman": "paee",
+        "backEn": "Tulu Syllabary combination: /paee/ (Class ID #430)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೆ''",
+        "frontRoman": "pae",
+        "backEn": "Tulu Syllabary combination: /pae/ (Class ID #431)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೇ''",
+        "frontRoman": "paee",
+        "backEn": "Tulu Syllabary combination: /paee/ (Class ID #432)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೈ",
+        "frontRoman": "paai",
+        "backEn": "Tulu Syllabary combination: /paai/ (Class ID #433)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೊ",
+        "frontRoman": "pao",
+        "backEn": "Tulu Syllabary combination: /pao/ (Class ID #434)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೋ",
+        "frontRoman": "paoo",
+        "backEn": "Tulu Syllabary combination: /paoo/ (Class ID #435)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪೌ",
+        "frontRoman": "paau",
+        "backEn": "Tulu Syllabary combination: /paau/ (Class ID #436)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪಂ",
+        "frontRoman": "pam",
+        "backEn": "Tulu Syllabary combination: /pam/ (Class ID #437)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಪಃ",
+        "frontRoman": "pah",
+        "backEn": "Tulu Syllabary combination: /pah/ (Class ID #438)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಪ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #439)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫಾ",
+        "frontRoman": "phaaa",
+        "backEn": "Tulu Syllabary combination: /phaaa/ (Class ID #442)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫಿ",
+        "frontRoman": "phai",
+        "backEn": "Tulu Syllabary combination: /phai/ (Class ID #443)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೀ",
+        "frontRoman": "phaii",
+        "backEn": "Tulu Syllabary combination: /phaii/ (Class ID #444)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫು",
+        "frontRoman": "phau",
+        "backEn": "Tulu Syllabary combination: /phau/ (Class ID #445)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫು",
+        "frontRoman": "phau",
+        "backEn": "Tulu Syllabary combination: /phau/ (Class ID #446)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೂ",
+        "frontRoman": "phauu",
+        "backEn": "Tulu Syllabary combination: /phauu/ (Class ID #447)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೃ",
+        "frontRoman": "pha",
+        "backEn": "Tulu Syllabary combination: /pha/ (Class ID #448)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೆ",
+        "frontRoman": "phae",
+        "backEn": "Tulu Syllabary combination: /phae/ (Class ID #449)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೇ",
+        "frontRoman": "phaee",
+        "backEn": "Tulu Syllabary combination: /phaee/ (Class ID #450)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೆ''",
+        "frontRoman": "phae",
+        "backEn": "Tulu Syllabary combination: /phae/ (Class ID #451)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೇ''",
+        "frontRoman": "phaee",
+        "backEn": "Tulu Syllabary combination: /phaee/ (Class ID #452)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೈ",
+        "frontRoman": "phaai",
+        "backEn": "Tulu Syllabary combination: /phaai/ (Class ID #453)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೊ",
+        "frontRoman": "phao",
+        "backEn": "Tulu Syllabary combination: /phao/ (Class ID #454)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೋ",
+        "frontRoman": "phaoo",
+        "backEn": "Tulu Syllabary combination: /phaoo/ (Class ID #455)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫೌ",
+        "frontRoman": "phaau",
+        "backEn": "Tulu Syllabary combination: /phaau/ (Class ID #456)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫಂ",
+        "frontRoman": "pham",
+        "backEn": "Tulu Syllabary combination: /pham/ (Class ID #457)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಫಃ",
+        "frontRoman": "phah",
+        "backEn": "Tulu Syllabary combination: /phah/ (Class ID #458)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಫ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #459)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬಾ",
+        "frontRoman": "baaa",
+        "backEn": "Tulu Syllabary combination: /baaa/ (Class ID #462)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬಿ",
+        "frontRoman": "bai",
+        "backEn": "Tulu Syllabary combination: /bai/ (Class ID #463)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೀ",
+        "frontRoman": "baii",
+        "backEn": "Tulu Syllabary combination: /baii/ (Class ID #464)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬು",
+        "frontRoman": "bau",
+        "backEn": "Tulu Syllabary combination: /bau/ (Class ID #465)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬು",
+        "frontRoman": "bau",
+        "backEn": "Tulu Syllabary combination: /bau/ (Class ID #466)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೂ",
+        "frontRoman": "bauu",
+        "backEn": "Tulu Syllabary combination: /bauu/ (Class ID #467)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೃ",
+        "frontRoman": "ba",
+        "backEn": "Tulu Syllabary combination: /ba/ (Class ID #468)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೆ",
+        "frontRoman": "bae",
+        "backEn": "Tulu Syllabary combination: /bae/ (Class ID #469)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೇ",
+        "frontRoman": "baee",
+        "backEn": "Tulu Syllabary combination: /baee/ (Class ID #470)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೆ''",
+        "frontRoman": "bae",
+        "backEn": "Tulu Syllabary combination: /bae/ (Class ID #471)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೇ''",
+        "frontRoman": "baee",
+        "backEn": "Tulu Syllabary combination: /baee/ (Class ID #472)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೈ",
+        "frontRoman": "baai",
+        "backEn": "Tulu Syllabary combination: /baai/ (Class ID #473)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೊ",
+        "frontRoman": "bao",
+        "backEn": "Tulu Syllabary combination: /bao/ (Class ID #474)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೋ",
+        "frontRoman": "baoo",
+        "backEn": "Tulu Syllabary combination: /baoo/ (Class ID #475)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬೌ",
+        "frontRoman": "baau",
+        "backEn": "Tulu Syllabary combination: /baau/ (Class ID #476)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬಂ",
+        "frontRoman": "bam",
+        "backEn": "Tulu Syllabary combination: /bam/ (Class ID #477)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಬಃ",
+        "frontRoman": "bah",
+        "backEn": "Tulu Syllabary combination: /bah/ (Class ID #478)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಬ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #479)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭಾ",
+        "frontRoman": "bhaaa",
+        "backEn": "Tulu Syllabary combination: /bhaaa/ (Class ID #482)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭಿ",
+        "frontRoman": "bhai",
+        "backEn": "Tulu Syllabary combination: /bhai/ (Class ID #483)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೀ",
+        "frontRoman": "bhaii",
+        "backEn": "Tulu Syllabary combination: /bhaii/ (Class ID #484)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭು",
+        "frontRoman": "bhau",
+        "backEn": "Tulu Syllabary combination: /bhau/ (Class ID #485)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭು",
+        "frontRoman": "bhau",
+        "backEn": "Tulu Syllabary combination: /bhau/ (Class ID #486)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೂ",
+        "frontRoman": "bhauu",
+        "backEn": "Tulu Syllabary combination: /bhauu/ (Class ID #487)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೃ",
+        "frontRoman": "bha",
+        "backEn": "Tulu Syllabary combination: /bha/ (Class ID #488)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೆ",
+        "frontRoman": "bhae",
+        "backEn": "Tulu Syllabary combination: /bhae/ (Class ID #489)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೇ",
+        "frontRoman": "bhaee",
+        "backEn": "Tulu Syllabary combination: /bhaee/ (Class ID #490)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೆ''",
+        "frontRoman": "bhae",
+        "backEn": "Tulu Syllabary combination: /bhae/ (Class ID #491)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೇ''",
+        "frontRoman": "bhaee",
+        "backEn": "Tulu Syllabary combination: /bhaee/ (Class ID #492)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೈ",
+        "frontRoman": "bhaai",
+        "backEn": "Tulu Syllabary combination: /bhaai/ (Class ID #493)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೊ",
+        "frontRoman": "bhao",
+        "backEn": "Tulu Syllabary combination: /bhao/ (Class ID #494)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೋ",
+        "frontRoman": "bhaoo",
+        "backEn": "Tulu Syllabary combination: /bhaoo/ (Class ID #495)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭೌ",
+        "frontRoman": "bhaau",
+        "backEn": "Tulu Syllabary combination: /bhaau/ (Class ID #496)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭಂ",
+        "frontRoman": "bham",
+        "backEn": "Tulu Syllabary combination: /bham/ (Class ID #497)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಭಃ",
+        "frontRoman": "bhah",
+        "backEn": "Tulu Syllabary combination: /bhah/ (Class ID #498)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಭ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #499)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮಾ",
+        "frontRoman": "maaa",
+        "backEn": "Tulu Syllabary combination: /maaa/ (Class ID #502)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮಿ",
+        "frontRoman": "mai",
+        "backEn": "Tulu Syllabary combination: /mai/ (Class ID #503)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೀ",
+        "frontRoman": "maii",
+        "backEn": "Tulu Syllabary combination: /maii/ (Class ID #504)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮು",
+        "frontRoman": "mau",
+        "backEn": "Tulu Syllabary combination: /mau/ (Class ID #505)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮು",
+        "frontRoman": "mau",
+        "backEn": "Tulu Syllabary combination: /mau/ (Class ID #506)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೂ",
+        "frontRoman": "mauu",
+        "backEn": "Tulu Syllabary combination: /mauu/ (Class ID #507)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೃ",
+        "frontRoman": "ma",
+        "backEn": "Tulu Syllabary combination: /ma/ (Class ID #508)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೆ",
+        "frontRoman": "mae",
+        "backEn": "Tulu Syllabary combination: /mae/ (Class ID #509)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೇ",
+        "frontRoman": "maee",
+        "backEn": "Tulu Syllabary combination: /maee/ (Class ID #510)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೆ''",
+        "frontRoman": "mae",
+        "backEn": "Tulu Syllabary combination: /mae/ (Class ID #511)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೇ''",
+        "frontRoman": "maee",
+        "backEn": "Tulu Syllabary combination: /maee/ (Class ID #512)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೈ",
+        "frontRoman": "maai",
+        "backEn": "Tulu Syllabary combination: /maai/ (Class ID #513)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೊ",
+        "frontRoman": "mao",
+        "backEn": "Tulu Syllabary combination: /mao/ (Class ID #514)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೋ",
+        "frontRoman": "maoo",
+        "backEn": "Tulu Syllabary combination: /maoo/ (Class ID #515)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮೌ",
+        "frontRoman": "maau",
+        "backEn": "Tulu Syllabary combination: /maau/ (Class ID #516)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮಂ",
+        "frontRoman": "mam",
+        "backEn": "Tulu Syllabary combination: /mam/ (Class ID #517)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಮಃ",
+        "frontRoman": "mah",
+        "backEn": "Tulu Syllabary combination: /mah/ (Class ID #518)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಮ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #519)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯಾ",
+        "frontRoman": "yaaa",
+        "backEn": "Tulu Syllabary combination: /yaaa/ (Class ID #522)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯಿ",
+        "frontRoman": "yai",
+        "backEn": "Tulu Syllabary combination: /yai/ (Class ID #523)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೀ",
+        "frontRoman": "yaii",
+        "backEn": "Tulu Syllabary combination: /yaii/ (Class ID #524)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯು",
+        "frontRoman": "yau",
+        "backEn": "Tulu Syllabary combination: /yau/ (Class ID #525)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯು",
+        "frontRoman": "yau",
+        "backEn": "Tulu Syllabary combination: /yau/ (Class ID #526)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೂ",
+        "frontRoman": "yauu",
+        "backEn": "Tulu Syllabary combination: /yauu/ (Class ID #527)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೃ",
+        "frontRoman": "ya",
+        "backEn": "Tulu Syllabary combination: /ya/ (Class ID #528)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೆ",
+        "frontRoman": "yae",
+        "backEn": "Tulu Syllabary combination: /yae/ (Class ID #529)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೇ",
+        "frontRoman": "yaee",
+        "backEn": "Tulu Syllabary combination: /yaee/ (Class ID #530)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೆ''",
+        "frontRoman": "yae",
+        "backEn": "Tulu Syllabary combination: /yae/ (Class ID #531)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೇ''",
+        "frontRoman": "yaee",
+        "backEn": "Tulu Syllabary combination: /yaee/ (Class ID #532)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೈ",
+        "frontRoman": "yaai",
+        "backEn": "Tulu Syllabary combination: /yaai/ (Class ID #533)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೊ",
+        "frontRoman": "yao",
+        "backEn": "Tulu Syllabary combination: /yao/ (Class ID #534)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೋ",
+        "frontRoman": "yaoo",
+        "backEn": "Tulu Syllabary combination: /yaoo/ (Class ID #535)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯೌ",
+        "frontRoman": "yaau",
+        "backEn": "Tulu Syllabary combination: /yaau/ (Class ID #536)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯಂ",
+        "frontRoman": "yam",
+        "backEn": "Tulu Syllabary combination: /yam/ (Class ID #537)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಯಃ",
+        "frontRoman": "yah",
+        "backEn": "Tulu Syllabary combination: /yah/ (Class ID #538)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಯ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #539)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರಾ",
+        "frontRoman": "raaa",
+        "backEn": "Tulu Syllabary combination: /raaa/ (Class ID #542)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರಿ",
+        "frontRoman": "rai",
+        "backEn": "Tulu Syllabary combination: /rai/ (Class ID #543)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೀ",
+        "frontRoman": "raii",
+        "backEn": "Tulu Syllabary combination: /raii/ (Class ID #544)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರು",
+        "frontRoman": "rau",
+        "backEn": "Tulu Syllabary combination: /rau/ (Class ID #545)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರು",
+        "frontRoman": "rau",
+        "backEn": "Tulu Syllabary combination: /rau/ (Class ID #546)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೂ",
+        "frontRoman": "rauu",
+        "backEn": "Tulu Syllabary combination: /rauu/ (Class ID #547)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೃ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #548)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೆ",
+        "frontRoman": "rae",
+        "backEn": "Tulu Syllabary combination: /rae/ (Class ID #549)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೇ",
+        "frontRoman": "raee",
+        "backEn": "Tulu Syllabary combination: /raee/ (Class ID #550)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೆ''",
+        "frontRoman": "rae",
+        "backEn": "Tulu Syllabary combination: /rae/ (Class ID #551)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೇ''",
+        "frontRoman": "raee",
+        "backEn": "Tulu Syllabary combination: /raee/ (Class ID #552)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೈ",
+        "frontRoman": "raai",
+        "backEn": "Tulu Syllabary combination: /raai/ (Class ID #553)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೊ",
+        "frontRoman": "rao",
+        "backEn": "Tulu Syllabary combination: /rao/ (Class ID #554)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೋ",
+        "frontRoman": "raoo",
+        "backEn": "Tulu Syllabary combination: /raoo/ (Class ID #555)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರೌ",
+        "frontRoman": "raau",
+        "backEn": "Tulu Syllabary combination: /raau/ (Class ID #556)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರಂ",
+        "frontRoman": "ram",
+        "backEn": "Tulu Syllabary combination: /ram/ (Class ID #557)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರಃ",
+        "frontRoman": "rah",
+        "backEn": "Tulu Syllabary combination: /rah/ (Class ID #558)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ರ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #559)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲಾ",
+        "frontRoman": "laaa",
+        "backEn": "Tulu Syllabary combination: /laaa/ (Class ID #562)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲಿ",
+        "frontRoman": "lai",
+        "backEn": "Tulu Syllabary combination: /lai/ (Class ID #563)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೀ",
+        "frontRoman": "laii",
+        "backEn": "Tulu Syllabary combination: /laii/ (Class ID #564)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲು",
+        "frontRoman": "lau",
+        "backEn": "Tulu Syllabary combination: /lau/ (Class ID #565)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲು",
+        "frontRoman": "lau",
+        "backEn": "Tulu Syllabary combination: /lau/ (Class ID #566)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೂ",
+        "frontRoman": "lauu",
+        "backEn": "Tulu Syllabary combination: /lauu/ (Class ID #567)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೃ",
+        "frontRoman": "la",
+        "backEn": "Tulu Syllabary combination: /la/ (Class ID #568)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೆ",
+        "frontRoman": "lae",
+        "backEn": "Tulu Syllabary combination: /lae/ (Class ID #569)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೇ",
+        "frontRoman": "laee",
+        "backEn": "Tulu Syllabary combination: /laee/ (Class ID #570)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೆ''",
+        "frontRoman": "lae",
+        "backEn": "Tulu Syllabary combination: /lae/ (Class ID #571)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೇ''",
+        "frontRoman": "laee",
+        "backEn": "Tulu Syllabary combination: /laee/ (Class ID #572)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೈ",
+        "frontRoman": "laai",
+        "backEn": "Tulu Syllabary combination: /laai/ (Class ID #573)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೊ",
+        "frontRoman": "lao",
+        "backEn": "Tulu Syllabary combination: /lao/ (Class ID #574)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೋ",
+        "frontRoman": "laoo",
+        "backEn": "Tulu Syllabary combination: /laoo/ (Class ID #575)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲೌ",
+        "frontRoman": "laau",
+        "backEn": "Tulu Syllabary combination: /laau/ (Class ID #576)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲಂ",
+        "frontRoman": "lam",
+        "backEn": "Tulu Syllabary combination: /lam/ (Class ID #577)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಲಃ",
+        "frontRoman": "lah",
+        "backEn": "Tulu Syllabary combination: /lah/ (Class ID #578)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಲ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #579)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವಾ",
+        "frontRoman": "vaaa",
+        "backEn": "Tulu Syllabary combination: /vaaa/ (Class ID #582)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವಿ",
+        "frontRoman": "vai",
+        "backEn": "Tulu Syllabary combination: /vai/ (Class ID #583)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೀ",
+        "frontRoman": "vaii",
+        "backEn": "Tulu Syllabary combination: /vaii/ (Class ID #584)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವು",
+        "frontRoman": "vau",
+        "backEn": "Tulu Syllabary combination: /vau/ (Class ID #585)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವು",
+        "frontRoman": "vau",
+        "backEn": "Tulu Syllabary combination: /vau/ (Class ID #586)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೂ",
+        "frontRoman": "vauu",
+        "backEn": "Tulu Syllabary combination: /vauu/ (Class ID #587)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೃ",
+        "frontRoman": "va",
+        "backEn": "Tulu Syllabary combination: /va/ (Class ID #588)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೆ",
+        "frontRoman": "vae",
+        "backEn": "Tulu Syllabary combination: /vae/ (Class ID #589)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೇ",
+        "frontRoman": "vaee",
+        "backEn": "Tulu Syllabary combination: /vaee/ (Class ID #590)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೆ''",
+        "frontRoman": "vae",
+        "backEn": "Tulu Syllabary combination: /vae/ (Class ID #591)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೇ''",
+        "frontRoman": "vaee",
+        "backEn": "Tulu Syllabary combination: /vaee/ (Class ID #592)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೈ",
+        "frontRoman": "vaai",
+        "backEn": "Tulu Syllabary combination: /vaai/ (Class ID #593)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೊ",
+        "frontRoman": "vao",
+        "backEn": "Tulu Syllabary combination: /vao/ (Class ID #594)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೋ",
+        "frontRoman": "vaoo",
+        "backEn": "Tulu Syllabary combination: /vaoo/ (Class ID #595)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವೌ",
+        "frontRoman": "vaau",
+        "backEn": "Tulu Syllabary combination: /vaau/ (Class ID #596)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವಂ",
+        "frontRoman": "vam",
+        "backEn": "Tulu Syllabary combination: /vam/ (Class ID #597)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ವಃ",
+        "frontRoman": "vah",
+        "backEn": "Tulu Syllabary combination: /vah/ (Class ID #598)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ವ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #599)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶಾ",
+        "frontRoman": "shaaa",
+        "backEn": "Tulu Syllabary combination: /shaaa/ (Class ID #602)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶಿ",
+        "frontRoman": "shai",
+        "backEn": "Tulu Syllabary combination: /shai/ (Class ID #603)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೀ",
+        "frontRoman": "shaii",
+        "backEn": "Tulu Syllabary combination: /shaii/ (Class ID #604)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶು",
+        "frontRoman": "shau",
+        "backEn": "Tulu Syllabary combination: /shau/ (Class ID #605)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶು",
+        "frontRoman": "shau",
+        "backEn": "Tulu Syllabary combination: /shau/ (Class ID #606)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೂ",
+        "frontRoman": "shauu",
+        "backEn": "Tulu Syllabary combination: /shauu/ (Class ID #607)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೃ",
+        "frontRoman": "sha",
+        "backEn": "Tulu Syllabary combination: /sha/ (Class ID #608)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೆ",
+        "frontRoman": "shae",
+        "backEn": "Tulu Syllabary combination: /shae/ (Class ID #609)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೇ",
+        "frontRoman": "shaee",
+        "backEn": "Tulu Syllabary combination: /shaee/ (Class ID #610)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೆ''",
+        "frontRoman": "shae",
+        "backEn": "Tulu Syllabary combination: /shae/ (Class ID #611)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೇ''",
+        "frontRoman": "shaee",
+        "backEn": "Tulu Syllabary combination: /shaee/ (Class ID #612)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೈ",
+        "frontRoman": "shaai",
+        "backEn": "Tulu Syllabary combination: /shaai/ (Class ID #613)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೊ",
+        "frontRoman": "shao",
+        "backEn": "Tulu Syllabary combination: /shao/ (Class ID #614)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೋ",
+        "frontRoman": "shaoo",
+        "backEn": "Tulu Syllabary combination: /shaoo/ (Class ID #615)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶೌ",
+        "frontRoman": "shaau",
+        "backEn": "Tulu Syllabary combination: /shaau/ (Class ID #616)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶಂ",
+        "frontRoman": "sham",
+        "backEn": "Tulu Syllabary combination: /sham/ (Class ID #617)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಶಃ",
+        "frontRoman": "shah",
+        "backEn": "Tulu Syllabary combination: /shah/ (Class ID #618)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಶ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #619)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷಾ",
+        "frontRoman": "shhaaa",
+        "backEn": "Tulu Syllabary combination: /shhaaa/ (Class ID #622)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷಿ",
+        "frontRoman": "shhai",
+        "backEn": "Tulu Syllabary combination: /shhai/ (Class ID #623)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೀ",
+        "frontRoman": "shhaii",
+        "backEn": "Tulu Syllabary combination: /shhaii/ (Class ID #624)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷು",
+        "frontRoman": "shhau",
+        "backEn": "Tulu Syllabary combination: /shhau/ (Class ID #625)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷು",
+        "frontRoman": "shhau",
+        "backEn": "Tulu Syllabary combination: /shhau/ (Class ID #626)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೂ",
+        "frontRoman": "shhauu",
+        "backEn": "Tulu Syllabary combination: /shhauu/ (Class ID #627)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೃ",
+        "frontRoman": "shha",
+        "backEn": "Tulu Syllabary combination: /shha/ (Class ID #628)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೆ",
+        "frontRoman": "shhae",
+        "backEn": "Tulu Syllabary combination: /shhae/ (Class ID #629)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೇ",
+        "frontRoman": "shhaee",
+        "backEn": "Tulu Syllabary combination: /shhaee/ (Class ID #630)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೆ''",
+        "frontRoman": "shhae",
+        "backEn": "Tulu Syllabary combination: /shhae/ (Class ID #631)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೇ''",
+        "frontRoman": "shhaee",
+        "backEn": "Tulu Syllabary combination: /shhaee/ (Class ID #632)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೈ",
+        "frontRoman": "shhaai",
+        "backEn": "Tulu Syllabary combination: /shhaai/ (Class ID #633)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೊ",
+        "frontRoman": "shhao",
+        "backEn": "Tulu Syllabary combination: /shhao/ (Class ID #634)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೋ",
+        "frontRoman": "shhaoo",
+        "backEn": "Tulu Syllabary combination: /shhaoo/ (Class ID #635)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷೌ",
+        "frontRoman": "shhaau",
+        "backEn": "Tulu Syllabary combination: /shhaau/ (Class ID #636)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷಂ",
+        "frontRoman": "shham",
+        "backEn": "Tulu Syllabary combination: /shham/ (Class ID #637)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಷಃ",
+        "frontRoman": "shhah",
+        "backEn": "Tulu Syllabary combination: /shhah/ (Class ID #638)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಷ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #639)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸಾ",
+        "frontRoman": "saaa",
+        "backEn": "Tulu Syllabary combination: /saaa/ (Class ID #642)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸಿ",
+        "frontRoman": "sai",
+        "backEn": "Tulu Syllabary combination: /sai/ (Class ID #643)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೀ",
+        "frontRoman": "saii",
+        "backEn": "Tulu Syllabary combination: /saii/ (Class ID #644)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸು",
+        "frontRoman": "sau",
+        "backEn": "Tulu Syllabary combination: /sau/ (Class ID #645)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸು",
+        "frontRoman": "sau",
+        "backEn": "Tulu Syllabary combination: /sau/ (Class ID #646)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೂ",
+        "frontRoman": "sauu",
+        "backEn": "Tulu Syllabary combination: /sauu/ (Class ID #647)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೃ",
+        "frontRoman": "sa",
+        "backEn": "Tulu Syllabary combination: /sa/ (Class ID #648)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೆ",
+        "frontRoman": "sae",
+        "backEn": "Tulu Syllabary combination: /sae/ (Class ID #649)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೇ",
+        "frontRoman": "saee",
+        "backEn": "Tulu Syllabary combination: /saee/ (Class ID #650)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೆ''",
+        "frontRoman": "sae",
+        "backEn": "Tulu Syllabary combination: /sae/ (Class ID #651)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೇ''",
+        "frontRoman": "saee",
+        "backEn": "Tulu Syllabary combination: /saee/ (Class ID #652)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೈ",
+        "frontRoman": "saai",
+        "backEn": "Tulu Syllabary combination: /saai/ (Class ID #653)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೊ",
+        "frontRoman": "sao",
+        "backEn": "Tulu Syllabary combination: /sao/ (Class ID #654)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೋ",
+        "frontRoman": "saoo",
+        "backEn": "Tulu Syllabary combination: /saoo/ (Class ID #655)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸೌ",
+        "frontRoman": "saau",
+        "backEn": "Tulu Syllabary combination: /saau/ (Class ID #656)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸಂ",
+        "frontRoman": "sam",
+        "backEn": "Tulu Syllabary combination: /sam/ (Class ID #657)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಸಃ",
+        "frontRoman": "sah",
+        "backEn": "Tulu Syllabary combination: /sah/ (Class ID #658)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಸ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #659)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹಾ",
+        "frontRoman": "haaa",
+        "backEn": "Tulu Syllabary combination: /haaa/ (Class ID #662)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹಿ",
+        "frontRoman": "hai",
+        "backEn": "Tulu Syllabary combination: /hai/ (Class ID #663)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೀ",
+        "frontRoman": "haii",
+        "backEn": "Tulu Syllabary combination: /haii/ (Class ID #664)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹು",
+        "frontRoman": "hau",
+        "backEn": "Tulu Syllabary combination: /hau/ (Class ID #665)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹು",
+        "frontRoman": "hau",
+        "backEn": "Tulu Syllabary combination: /hau/ (Class ID #666)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೂ",
+        "frontRoman": "hauu",
+        "backEn": "Tulu Syllabary combination: /hauu/ (Class ID #667)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೃ",
+        "frontRoman": "ha",
+        "backEn": "Tulu Syllabary combination: /ha/ (Class ID #668)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೆ",
+        "frontRoman": "hae",
+        "backEn": "Tulu Syllabary combination: /hae/ (Class ID #669)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೇ",
+        "frontRoman": "haee",
+        "backEn": "Tulu Syllabary combination: /haee/ (Class ID #670)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೆ''",
+        "frontRoman": "hae",
+        "backEn": "Tulu Syllabary combination: /hae/ (Class ID #671)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೇ''",
+        "frontRoman": "haee",
+        "backEn": "Tulu Syllabary combination: /haee/ (Class ID #672)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೈ",
+        "frontRoman": "haai",
+        "backEn": "Tulu Syllabary combination: /haai/ (Class ID #673)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೊ",
+        "frontRoman": "hao",
+        "backEn": "Tulu Syllabary combination: /hao/ (Class ID #674)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೋ",
+        "frontRoman": "haoo",
+        "backEn": "Tulu Syllabary combination: /haoo/ (Class ID #675)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹೌ",
+        "frontRoman": "haau",
+        "backEn": "Tulu Syllabary combination: /haau/ (Class ID #676)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹಂ",
+        "frontRoman": "ham",
+        "backEn": "Tulu Syllabary combination: /ham/ (Class ID #677)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಹಃ",
+        "frontRoman": "hah",
+        "backEn": "Tulu Syllabary combination: /hah/ (Class ID #678)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಹ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #679)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳಾ",
+        "frontRoman": "Laaa",
+        "backEn": "Tulu Syllabary combination: /Laaa/ (Class ID #682)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳಿ",
+        "frontRoman": "Lai",
+        "backEn": "Tulu Syllabary combination: /Lai/ (Class ID #683)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೀ",
+        "frontRoman": "Laii",
+        "backEn": "Tulu Syllabary combination: /Laii/ (Class ID #684)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳು",
+        "frontRoman": "Lau",
+        "backEn": "Tulu Syllabary combination: /Lau/ (Class ID #685)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳು",
+        "frontRoman": "Lau",
+        "backEn": "Tulu Syllabary combination: /Lau/ (Class ID #686)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೂ",
+        "frontRoman": "Lauu",
+        "backEn": "Tulu Syllabary combination: /Lauu/ (Class ID #687)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೃ",
+        "frontRoman": "La",
+        "backEn": "Tulu Syllabary combination: /La/ (Class ID #688)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೆ",
+        "frontRoman": "Lae",
+        "backEn": "Tulu Syllabary combination: /Lae/ (Class ID #689)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೇ",
+        "frontRoman": "Laee",
+        "backEn": "Tulu Syllabary combination: /Laee/ (Class ID #690)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೆ''",
+        "frontRoman": "Lae",
+        "backEn": "Tulu Syllabary combination: /Lae/ (Class ID #691)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೇ''",
+        "frontRoman": "Laee",
+        "backEn": "Tulu Syllabary combination: /Laee/ (Class ID #692)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೈ",
+        "frontRoman": "Laai",
+        "backEn": "Tulu Syllabary combination: /Laai/ (Class ID #693)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೊ",
+        "frontRoman": "Lao",
+        "backEn": "Tulu Syllabary combination: /Lao/ (Class ID #694)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೋ",
+        "frontRoman": "Laoo",
+        "backEn": "Tulu Syllabary combination: /Laoo/ (Class ID #695)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳೌ",
+        "frontRoman": "Laau",
+        "backEn": "Tulu Syllabary combination: /Laau/ (Class ID #696)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳಂ",
+        "frontRoman": "Lam",
+        "backEn": "Tulu Syllabary combination: /Lam/ (Class ID #697)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ಳಃ",
+        "frontRoman": "Lah",
+        "backEn": "Tulu Syllabary combination: /Lah/ (Class ID #698)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      },
+      {
+        "frontNative": "ರ್ಳ",
+        "frontRoman": "ra",
+        "backEn": "Tulu Syllabary combination: /ra/ (Class ID #699)",
+        "culturalTip": "Tulu Matra compound character (Kagunita)"
+      }
+    ]
+  }
+]
